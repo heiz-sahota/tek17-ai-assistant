@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+openai
+azure-identity
+azure-search-documents
+pypdf
+python-docx
+pytest
+langchain-text-splitters
+tiktoken
+numpy
